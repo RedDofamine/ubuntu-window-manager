@@ -1,0 +1,15 @@
+[Data Source]
+DisplayName=Web layout design
+Enabled=true
+Parent=local-stub
+
+[Task List]
+BackendName=local
+Color=#becedd
+Selected=true
+
+[Offline]
+StaySynchronized=true
+
+[GNOME To Do]
+ApiVersion=1

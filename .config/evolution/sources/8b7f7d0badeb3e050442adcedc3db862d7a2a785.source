@@ -1,0 +1,15 @@
+[Data Source]
+DisplayName=Learn Vue
+Enabled=true
+Parent=local-stub
+
+[Task List]
+BackendName=local
+Color=#becedd
+Selected=true
+
+[Offline]
+StaySynchronized=true
+
+[GNOME To Do]
+ApiVersion=1

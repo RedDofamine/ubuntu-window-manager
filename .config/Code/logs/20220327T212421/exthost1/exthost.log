@@ -1,0 +1,66 @@
+[2022-03-27 21:24:24.459] [exthost] [info] Extension host with pid 6768 started
+[2022-03-27 21:24:24.459] [exthost] [info] Skipping acquiring lock for /home/dofamine/.config/Code/User/workspaceStorage/f5167caebc3fe0ad4ff57eeff62dd274.
+[2022-03-27 21:24:24.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-27 21:24:24.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-27 21:24:24.532] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-27 21:24:24.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 21:24:24.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.539] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.540] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.545] [exthost] [info] ExtensionService#_doActivateExtension funkyremi.vscode-google-translate, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.589] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.600] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-27 21:24:24.898] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.911] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 21:24:24.958] [exthost] [info] Eager extensions activated
+[2022-03-27 21:24:24.977] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:24.986] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:24.988] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:25.819] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-27 21:24:25.827] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-27 21:24:25.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-03-27 21:24:37.006] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-27 21:24:37.037] [exthost] [info] Extension host with pid 6768 exiting with code 0
+[2022-03-27 21:24:38.157] [exthost] [info] Extension host with pid 6922 started
+[2022-03-27 21:24:38.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-27 21:24:38.231] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.233] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 21:24:38.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.236] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.237] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.243] [exthost] [info] ExtensionService#_doActivateExtension funkyremi.vscode-google-translate, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.289] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.298] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.353] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-27 21:24:38.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 21:24:38.510] [exthost] [info] Eager extensions activated
+[2022-03-27 21:24:38.519] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:38.522] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:38.523] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:51.636] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-27 21:24:51.652] [exthost] [info] Extension host with pid 6922 exiting with code 0
+[2022-03-27 21:24:52.950] [exthost] [info] Extension host with pid 7006 started
+[2022-03-27 21:24:52.951] [exthost] [info] Skipping acquiring lock for /home/dofamine/.config/Code/User/workspaceStorage/f5167caebc3fe0ad4ff57eeff62dd274.
+[2022-03-27 21:24:53.042] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onLanguage:plaintext'
+[2022-03-27 21:24:53.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-27 21:24:53.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-03-27 21:24:53.064] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.065] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-27 21:24:53.066] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.068] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.069] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.073] [exthost] [info] ExtensionService#_doActivateExtension funkyremi.vscode-google-translate, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.123] [exthost] [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.133] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-03-27 21:24:53.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.366] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-27 21:24:53.403] [exthost] [info] Eager extensions activated
+[2022-03-27 21:24:53.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:53.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-27 21:24:53.429] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-28 00:26:12.647] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-28 00:26:12.664] [exthost] [info] Extension host with pid 7006 exiting with code 0

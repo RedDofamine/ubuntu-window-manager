@@ -1,0 +1,11 @@
+[2022-03-18T21:49:04.404Z] Проверка найденного git в: git
+[2022-03-18T21:49:04.440Z] Использование git 2.25.1 из git
+[2022-03-18T21:49:04.456Z] > git rev-parse --git-dir [1ms]
+[2022-03-18T21:49:04.462Z] Open repository: /home/dofamine/Documents/Web-dev/6.02.2022
+[2022-03-18T21:49:04.755Z] > git symbolic-ref --short HEAD [2ms]
+[2022-03-18T21:49:04.760Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master [2ms]
+[2022-03-18T21:49:04.767Z] > git remote --verbose [1ms]
+[2022-03-18T21:49:04.767Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-03-18T21:49:04.775Z] > git config --get commit.template [1ms]
+[2022-03-18T21:49:04.786Z] > git ls-files --stage -- /home/dofamine/Documents/Web-dev/6.02.2022/index.html [2ms]
+[2022-03-18T21:49:04.792Z] > git cat-file -s a312ace5de0e88a3d4ee560bef324d7ba87510b4 [1ms]

@@ -1,0 +1,13 @@
+# GIMP action-history
+
+(history-item "tools-measure" 0)
+(history-item "tools-opacity-decrease" 2)
+(history-item "view-close" 2)
+(history-item "tools-color-picker" 0)
+(history-item "tools-text" 0)
+(history-item "file-open" 0)
+(history-item "tools-opacity-increase" 2)
+(history-item "file-quit" 0)
+(history-item "edit-paste" 1)
+
+# end of action-history
