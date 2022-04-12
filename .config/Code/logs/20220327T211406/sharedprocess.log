@@ -1,5 +1,0 @@
-[2022-03-27 21:14:10.305] [sharedprocess] [info] Starting worker process with pid 5570 (type: fileWatcher, window: 1).
-[2022-03-27 21:19:18.117] [sharedprocess] [info] Worker process with pid 5570 terminated normally (type: fileWatcher, window: 1).
-[2022-03-27 21:19:18.812] [sharedprocess] [info] Starting worker process with pid 5871 (type: fileWatcher, window: 1).
-[2022-03-27 21:19:35.435] [sharedprocess] [info] Worker process with pid 5871 terminated normally (type: fileWatcher, window: 1).
-[2022-03-27 21:19:36.197] [sharedprocess] [info] Starting worker process with pid 5960 (type: fileWatcher, window: 1).

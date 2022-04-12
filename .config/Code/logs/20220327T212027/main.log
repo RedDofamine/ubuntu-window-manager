@@ -1,8 +1,0 @@
-[2022-03-27 21:20:27.434] [main] [info] window#load: attempt to load window (id: 1)
-[2022-03-27 21:20:27.448] [main] [info] update#setState idle
-[2022-03-27 21:20:27.469] [main] [info] ExtensionHostStarterWorker created
-[2022-03-27 21:20:29.318] [main] [info] window#load: window reported ready (id: 1)
-[2022-03-27 21:20:29.504] [main] [info] Starting extension host with pid 6179 (fork() took 11 ms).
-[2022-03-27 21:20:29.504] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
-[2022-03-27 21:20:42.575] [main] [info] Waiting for extension host with pid 6179 to exit.
-[2022-03-27 21:20:42.597] [main] [info] Extension host with pid 6179 exited with code: 0, signal: null.

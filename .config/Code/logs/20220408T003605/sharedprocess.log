@@ -1,8 +1,0 @@
-[2022-04-08 00:36:09.338] [sharedprocess] [info] Starting worker process with pid 39766 (type: fileWatcher, window: 1).
-[2022-04-08 00:36:11.908] [sharedprocess] [info] Getting Manifest... aaron-bond.better-comments
-[2022-04-08 00:36:13.073] [sharedprocess] [info] Installing extension: aaron-bond.better-comments
-[2022-04-08 00:36:15.234] [sharedprocess] [info] Downloaded extension: aaron-bond.better-comments /home/dofamine/.config/Code/CachedExtensionVSIXs/aaron-bond.better-comments-3.0.0
-[2022-04-08 00:36:15.294] [sharedprocess] [info] Extracted extension to /home/dofamine/.vscode/extensions/.7a18dc7d-60ee-4ae0-b501-cd4ea1d2a1f4: aaron-bond.better-comments
-[2022-04-08 00:36:15.298] [sharedprocess] [info] Renamed to /home/dofamine/.vscode/extensions/aaron-bond.better-comments-3.0.0
-[2022-04-08 00:36:15.300] [sharedprocess] [info] Extracting completed. aaron-bond.better-comments
-[2022-04-08 00:36:15.304] [sharedprocess] [info] Extension installed successfully: aaron-bond.better-comments
